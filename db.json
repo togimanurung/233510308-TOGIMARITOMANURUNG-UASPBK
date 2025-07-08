@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Beras Kencur",
+      "description": "Minuman tradisional menyegarkan",
+      "price": 10000,
+      "image": "/images/beras-kencur.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Temulawak",
+      "description": "Meningkatkan nafsu makan dan kekebalan tubuh",
+      "price": 12000,
+      "image": "/images/temulawak.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cabe Puyang",
+      "description": "Meredakan pegal dan masuk angin",
+      "price": 11000,
+      "image": "/images/cabe-puyang.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Daun Sirih",
+      "description": "Mengatasi bau badan dan keputihan",
+      "price": 9500,
+      "image": "/images/daun-sirih.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Kunyit Asam",
+      "description": "Mengurangi nyeri haid dan menyegarkan tubuh",
+      "price": 11500,
+      "image": "/images/Kunyit-Asam.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "carts": []
+}
